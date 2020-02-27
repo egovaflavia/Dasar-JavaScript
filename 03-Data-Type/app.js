@@ -4,7 +4,7 @@
 const name = 'John Doe';
 // console.log(typeof name);
 
-// menentukan type data dari suatu variable typeof
+// menentukan type data dari suatu variable, typeof
 
 // number
 const age = 33;

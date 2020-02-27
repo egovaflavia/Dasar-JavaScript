@@ -60,5 +60,5 @@
 // console.log(person);
 
 const numbers = [1, 2, 3, 4];
-numbers.push('a', 6); // push memasukan data dlm deret aray
+numbers.push('a', 6); // push memasukan data dlm deret array
 console.log(numbers);
